@@ -1,14 +1,14 @@
 # 👋 Hi there! This is rekomind
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rekomind.rekomind)
-
 📱 We are a web of technological recommendations.
 
 👨🏽‍💻 Mobile phones, tablets, laptops.
 
 🤟🏽 We make your life easier.
 
-Come and take a look [rekomind](https://rekomind.com)
+Come and take a look at [rekomind](https://rekomind.com)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rekomind.rekomind)
 
 #### 🔗  Get in touch
 
@@ -22,7 +22,7 @@ Come and take a look [rekomind](https://rekomind.com)
   <img align="left" alt="rekomind | Pinterest" width="22px" src="https://graffica.info/wp-content/uploads/2017/08/badgeRGB.png" />
 </a>
 <a href="https://www.facebook.com/rekomind-110812464619549/">
-  <img align="left" alt="rekomind | Facebook" width="22px" src="https://i.pinimg.com/originals/f7/99/20/f79920f4cb34986684e29df42ec0cebe.jpg" />
+  <img align="left" alt="rekomind | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png" />
 </a>
 <a href="https://www.linkedin.com/company/rekomind/about/">
   <img align="left" alt="Rekomind's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
